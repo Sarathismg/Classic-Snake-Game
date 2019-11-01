@@ -1,1 +1,1 @@
-# Classic-Snake-Game
+# Classical-Snake-Game
